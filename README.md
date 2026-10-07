@@ -1,5 +1,7 @@
 # 🧾 ReceiptBuddy - Receipt & Expense Tracker / Bill Splitter
 
+https://claude.ai/artifact/ScyTiWPkqDUxUvvqyP5N8o
+
 A Streamlit app. Snap a photo of a receipt (Gemini vision reads it), then
 edit everything yourself: fix prices, add or delete items, say who had
 what, change tax, tip and the list of people. The split updates instantly
